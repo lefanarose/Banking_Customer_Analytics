@@ -1,4 +1,4 @@
-#Bank_system SQL Project.sql.
+#Bank_system SQL Project.sql
 
 A MySQL project that analyzes banking data: customers, branches, accounts, transactions, loans, and loan payments. It covers database design, sample data, business analysis queries, and advanced SQL such as CTEs, window functions, views, and stored procedures.
 
